@@ -1,0 +1,38 @@
+body{
+    background: grey;
+}
+
+h1{
+background-color: tomato;
+color: white;
+width: 40%;
+border: 9px solid green;
+border-radius: 10px;
+margin:auto;
+padding: 5px;
+
+}
+small{
+color:rgb(126, 20, 155)
+}
+.blog{
+background-color: rgb(32, 154, 202);
+border: 10px solid yellowgreen;
+border-radius: 20px;
+margin: 30px auto;
+padding: 8px 12px 10px 20px;
+width: 60%;
+}
+.sironam{
+text-align: center;
+text-transform: capitalize;
+font-size: 30px;
+font-family:'Courier New', Courier, monospace;
+font-weight: 900;
+
+}
+.blog p{
+color: navy;
+text-align: justify;
+font-size: 20px;
+}
